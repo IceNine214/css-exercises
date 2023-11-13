@@ -1,7 +1,7 @@
 /* styles.css */
 
 .odd_elements {
-    background-color: rgb(253, 170, 184);
+    background-color: rgb(255, 167, 167);
     font-family: Verdana, 'DejaVu Sans', sans-sarif;
 }
 
@@ -15,7 +15,7 @@
 }
 
 #fourth_element{
-    background-color: rgb(135, 226, 135);
+    background-color: rgb(144, 238, 144);
     font-size:24px;
     font-weight:bold;
 }
